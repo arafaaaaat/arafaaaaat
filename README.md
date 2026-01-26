@@ -62,13 +62,13 @@ fn main() {
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codexarafat&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arafaaaaat&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </div>
 
 ## Connect
 
 <div align="center">
-  <a href="https://github.com/codexarafat">
+  <a href="https://github.com/arafaaaaat">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <!-- Add more links as needed -->
