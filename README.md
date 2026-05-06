@@ -21,12 +21,12 @@ fn main() {
         name: String::from("Md. Yeasin Arafat"),
         primary_languages: vec![
             String::from("Rust"),
-            String::from("Python"), 
-            String::from("Flutter/Dart")
+            String::from("C/C++"), 
+            String::from("Python")
         ],
         domains: vec![
             String::from("Systems Programming"),
-            String::from("Machine Learning"),
+            String::from("Artificial Intelligence"),
             String::from("Embedded Systems"), 
             String::from("Automation")
         ],
